@@ -1,0 +1,8 @@
+{
+    "details":
+    [
+    {"id":1,"name":"abhay","email":"abc@gmail.com","password":"1234"},
+    {"id":2,"name":"akshay","email":"xyz@gmail.com","password":"6789"}
+
+    ]
+}
